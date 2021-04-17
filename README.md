@@ -18,7 +18,7 @@ this is a script to run ubuntu on your mobile.
 
 5. Go to HOME folder: `cd ~`
 
-6. Download script: `git clone https://github.com/bowosivas/bwubuntu.git`
+6. Download script: `git clone https://github.com/bowgaming/bwubuntu.git`
 
 7. Go to script folder: `cd bwubuntu`
 
