@@ -21,7 +21,7 @@ this is a script to run ubuntu on your mobile.
    apt-get install git -y
 
 5. Download script: 
-   git clone https://github.com/bowgaming0712/bwubuntu.git
+   git clone https://github.com/owobiwww/bwubuntu.git
 
 6. Go to script folder: 
    cd bwubuntu
